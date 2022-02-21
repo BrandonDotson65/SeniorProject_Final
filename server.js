@@ -1,5 +1,5 @@
 const MongoClient = require("mongodb").MongoClient;
-const url = "mongodb+srv://BrandonDotson:Kelapo290@cluster0.6ikkz.mongodb.net/transportation_health_app?retryWrites=true&w=majority";
+const url = "mongodb+srv://*******************************/transportation_health_app?retryWrites=true&w=majority";
 const express = require("express");
 const bodyParser = require("body-parser");
 const app = express();
